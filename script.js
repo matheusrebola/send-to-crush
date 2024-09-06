@@ -7,7 +7,7 @@ let noBtnActive = true;
 
 yesBtn.addEventListener("click", () => {
   noBtnActive = false; // Desativar o botão "No"
-  question.innerHTML = "Eu te amo Alaskinha";
+  question.innerHTML = "Eu te amo Pessoa!";
 
   // Mudar o gif para o novo gif quando clicar no "Yes"
   gif1.src = "https://giphy.com/embed/SYo1DFS8NLhhqzzjMU"; // Novo GIF
